@@ -77,3 +77,12 @@ Flexbox Layout
   .nav li:last-child a:hover {
     background: rgba(255,255,255,0.5);
     color: #fff;
+  }
+
+  .jumbotron {
+      font-family: oswald;
+      font-size: 4em;
+      text-align: center;
+      color: #777;
+  }
+  
